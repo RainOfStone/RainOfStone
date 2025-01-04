@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RainOfStone
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning fullstacks web dev
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me bloxooff@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The!
