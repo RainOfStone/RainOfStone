@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning fullstacks web dev
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me bloxooff@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: The!
 
 <!---
